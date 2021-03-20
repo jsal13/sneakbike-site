@@ -27,7 +27,7 @@
           <i class="navbar-icon bi-youtube"></i>
         </a>
 
-        <a class="a-no-dec" href="https://www.github.com/jsal13/sneakbike/" target="_blank">
+        <a class="a-no-dec" href="https://www.github.com/jsal13/sneakbike-utils/" target="_blank">
           <i class="navbar-icon bi-github"></i>
         </a>
 
