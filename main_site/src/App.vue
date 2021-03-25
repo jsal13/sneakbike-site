@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <nav class="navbar navbar-expand navbar-light bg-light">
+    <!-- <nav class="navbar navbar-expand navbar-light bg-light">
       <div class="container-fluid">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <li class="nav-item dropdown">
@@ -36,10 +36,10 @@
         </a>
 
       </div>
-    </nav>
-    <div class="container-fluid container-md mt-5 px-5">
+    </nav> -->
+    <!-- <div class="container-fluid container-md mt-5 px-5"> -->
     <router-view/>
-    </div>
+    <!-- </div> -->
   </div>
 </template>
 
